@@ -1,0 +1,9 @@
+@font-face{
+    src: url("../fonts/BMEuljiro10yearslater.ttf");
+    font-family: "Euljiro";
+
+}
+<!-- 배달의민족 을지로체 적용-->
+h1{
+    font-family: "Euljiro";
+}

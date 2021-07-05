@@ -1,0 +1,29 @@
+/*이미지 여백주기*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+    margin-top: 80px;
+}
+
+/*본문 스타일 설정*/
+p {
+    text-align: center;
+    font-size: 16px;
+    font-family: "Helvetica";
+    
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+/* a태그 스타일 설정 */
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(88,89,91);
+}
